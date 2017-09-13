@@ -1,7 +1,5 @@
 import random
 import os
-import yaml
-import json
 
 # print generated insult for the 'user'
 def get_insult(insults_pref, insults_postfs='.'):
