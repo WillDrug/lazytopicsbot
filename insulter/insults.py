@@ -1,9 +1,7 @@
 import random
-import os
 
 # print generated insult for the 'user'
 def get_insult(insults_pref, insults_postfs='.'):
-    insults_config = yaml.load(open(os.path.dirname(__file__) + '\insults.yml'))
     column1 = [
         'artless',
         'bawdy',
