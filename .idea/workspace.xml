@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96d642bd-03e7-4042-b7e6-d5879518453a" name="Default" comment="EVERYTHING DIES">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/insulter/insults.py" afterPath="$PROJECT_DIR$/insulter/insults.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TopicsBot.py" afterPath="$PROJECT_DIR$/TopicsBot.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TopicsBot.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TopicsBot.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TopicsBot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="776">
-              <caret line="86" column="53" lean-forward="false" selection-start-line="86" selection-start-column="53" selection-end-line="86" selection-end-column="53" />
+            <state relative-caret-position="793">
+              <caret line="479" column="17" lean-forward="false" selection-start-line="479" selection-start-column="17" selection-end-line="479" selection-end-column="17" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -48,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="insults.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="insults.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/insulter/insults.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -121,10 +121,10 @@
         <option value="$PROJECT_DIR$/corebot.py" />
         <option value="$PROJECT_DIR$/topicstest.py" />
         <option value="$PROJECT_DIR$/Procfile" />
-        <option value="$PROJECT_DIR$/TopicsBot.py" />
         <option value="$PROJECT_DIR$/insulter/insults.yml" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/insulter/insults.py" />
+        <option value="$PROJECT_DIR$/TopicsBot.py" />
       </list>
     </option>
   </component>
@@ -542,16 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TopicsBot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="776">
-          <caret line="86" column="53" lean-forward="false" selection-start-line="86" selection-start-column="53" selection-end-line="86" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/insulter/insults.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -573,6 +563,16 @@
         <state relative-caret-position="0">
           <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TopicsBot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="793">
+          <caret line="479" column="17" lean-forward="false" selection-start-line="479" selection-start-column="17" selection-end-line="479" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
