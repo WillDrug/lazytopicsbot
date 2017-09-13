@@ -472,9 +472,10 @@ class TopicsBot:
     def get_fucked(self, chat_id, username='Thou'):
         self.core.sendMessage(chat_id=chat_id, text=insults.get_insult(username + ' art a'))
 
-
+"""
 key = sys.argv[1]
 bot = TopicsBot(key, backup)
 
 while (bot.keep_alive):
     time.sleep(5)
+"""
