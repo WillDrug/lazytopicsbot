@@ -476,5 +476,5 @@ class TopicsBot:
 key = sys.argv[1]
 bot = TopicsBot(key, backup)
 
-while (bot.keep_alive):
+while bot.keep_alive:
     time.sleep(5)
