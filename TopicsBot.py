@@ -473,7 +473,7 @@ class TopicsBot:
     def get_fucked(self, chat_id, username='Thou'):
         self.core.sendMessage(chat_id=chat_id, text=insults.get_insult(username + ' art a'))
 
-if sys.argv.__len__()>0:
+if sys.argv.__len__()>1:
 	key = sys.argv[1]
 else:
 	key = os.environ['key']
