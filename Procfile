@@ -1,1 +1,1 @@
-worker: python TopicsBot.py
+web: python TopicsBot.py
